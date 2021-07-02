@@ -25,6 +25,7 @@ class Activities extends Component {
          {id:2,image:Avatar_05,name:"Intsham",role:"Web Developer",email:"intsham098",company :"120",mobile:'9876543210',joindate:"18 Mar 2014",role:"Active"},
          {id:3,image:Avatar_11,name:"Aditya Pachwariya",role:"Android Developer",email:"aditya456",company :"60",mobile:'9876543210',joindate:"1 Apr 2014",role:"Pending"},
          {id:4,image:Avatar_21,name:"Ram Kumar",role:"IOS Developer",email:"ram890",company :"10",mobile:'9876543210',joindate:"1 Apr 2014",role:"Inactive"},
+         {id:4,image:Avatar_21,name:"Ram Kumar",role:"IOS Developer",email:"ram890",company :"10",mobile:'9876543210',joindate:"1 Apr 2014",role:"Inactive"},
        ],          
     };
   }
